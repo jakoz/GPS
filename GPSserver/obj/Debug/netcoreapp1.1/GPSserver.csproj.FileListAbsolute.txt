@@ -1,0 +1,9 @@
+C:\Users\Vautrin\Documents\Projects\AspNet\GPSserver\GPSserver\bin\Debug\netcoreapp1.1\GPSserver.deps.json
+C:\Users\Vautrin\Documents\Projects\AspNet\GPSserver\GPSserver\bin\Debug\netcoreapp1.1\GPSserver.runtimeconfig.json
+C:\Users\Vautrin\Documents\Projects\AspNet\GPSserver\GPSserver\bin\Debug\netcoreapp1.1\GPSserver.runtimeconfig.dev.json
+C:\Users\Vautrin\Documents\Projects\AspNet\GPSserver\GPSserver\bin\Debug\netcoreapp1.1\GPSserver.dll
+C:\Users\Vautrin\Documents\Projects\AspNet\GPSserver\GPSserver\bin\Debug\netcoreapp1.1\GPSserver.pdb
+C:\Users\Vautrin\Documents\Projects\AspNet\GPSserver\GPSserver\obj\Debug\netcoreapp1.1\GPSserver.csprojResolveAssemblyReference.cache
+C:\Users\Vautrin\Documents\Projects\AspNet\GPSserver\GPSserver\obj\Debug\netcoreapp1.1\GPSserver.AssemblyInfo.cs
+C:\Users\Vautrin\Documents\Projects\AspNet\GPSserver\GPSserver\obj\Debug\netcoreapp1.1\GPSserver.dll
+C:\Users\Vautrin\Documents\Projects\AspNet\GPSserver\GPSserver\obj\Debug\netcoreapp1.1\GPSserver.pdb
